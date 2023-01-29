@@ -31,10 +31,6 @@ Here are some ideas to get you started:
  🌱I'm currently learning reactjs<br>
  ⚡Fun fact: i❤️paintings<br>
 <br>
- <svg height="210" width="500">
-  <line x1="0%" y1="50%" x2="100%" y2="50%" style="stroke:rgb(255,255,255);stroke-width:2" />
-  Sorry, your browser does not support inline SVG.
-</svg>
  
 <b>⚒️LANGUAGE &TOOLS:<br><br>
 
