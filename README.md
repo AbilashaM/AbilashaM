@@ -19,11 +19,12 @@ Here are some ideas to get you started:
  
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="150" height="150" frameBorder="5" class="giphy-embed" >
- <br> HEY THERE
+
+</div>
+ <br> <b><i> Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
-I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
 <b>⚒️LANGUAGE &TOOLS:<br>
