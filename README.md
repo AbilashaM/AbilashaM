@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
  
 
-<img src="https://giphy.com/embed/Qc0BxWM9TxljvJug2x" width="480" height="480" frameBorder="0" class="giphy-embed" >
+<img src="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" >
  HEY THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
