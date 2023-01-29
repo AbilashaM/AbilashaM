@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: V ...
 -->
@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <div id="header" align="center">
  
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" >
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="150" height="150" frameBorder="5" class="giphy-embed" >
  <br> HEY THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 
 <b>⚒️LANGUAGE &TOOLS:<br>
 
@@ -55,17 +56,17 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashaM&layout=compact&theme=vision-friendly-dark">
   <br>
   
-  <b>👤 REACH ME OUT:<br>
+  <b>📫 REACH ME OUT:<br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abilasha-m-a72a28237/">
-    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"height=40px width=40px>
+    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"height=30px width=30px>
   </a>
   <a href="https://www.instagram.com/abilasha.21/">
-  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=40px width=40px>
+  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=30 width=30px>
   
   </a>
   <a href="mailto: abilasha.2104@gmail.com">
-  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=40px width=40px>
+  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=30px width=30px>
   
   </a>
     </div>
