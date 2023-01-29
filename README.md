@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/support-technical-Qc0BxWM9TxljvJug2x" width="100"/>
-</div>
-<iframe src="https://giphy.com/embed/Qc0BxWM9TxljvJug2x" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ 
+
+<img src="https://giphy.com/embed/Qc0BxWM9TxljvJug2x" width="480" height="480" frameBorder="0" class="giphy-embed" >
  HEY THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+</div>
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <b>⚒️LANGUAGE &TOOLS:<br>
@@ -58,14 +58,14 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <b>👤 REACH ME OUT:<br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abilasha-m-a72a28237/">
-    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"height=50px width=50px>
+    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"height=40px width=40px>
   </a>
   <a href="https://www.instagram.com/abilasha.21/">
-  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=50px width=50px>
+  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=40px width=40px>
   
   </a>
   <a href="mailto: abilasha.2104@gmail.com">
-  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=50px width=50px>
+  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=40px width=40px>
   
   </a>
     </div>
