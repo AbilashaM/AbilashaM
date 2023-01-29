@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  🧑‍💻I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
  🌱I'm currently learning reactjs
  ⚡Fun fact: i❤️paintings
-
-<b>⚒️LANGUAGE &TOOLS:<br>
+<br>
+<b>⚒️LANGUAGE &TOOLS:<br><br>
 
 <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
-<div>
-<b> 🌱 CURENTLY LEARNING:<br>
+<div><br> 
+<b><i> 🌱 CURENTLY LEARNING:<br><br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </div>
@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 <br>
 <b> 🔥MY STATS:<br><br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AbilashaM&theme=dark"><br>&nbsp;
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AbilashaM&theme=dark"><br> <br> &nbsp;
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashaM&layout=compact&theme=vision-friendly-dark">
-  <br>
+
   <br>
   <b><i> 📫 REACH ME OUT:<br><br>
 <div id="badges">
