@@ -45,3 +45,4 @@ REACH ME OUT:
   
 </div>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=AbilashaM&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashaM">
