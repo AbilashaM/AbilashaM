@@ -54,21 +54,21 @@ Here are some ideas to get you started:
   
 
 <br>
-<b> 🔥MY STATS:<br>
+<b> 🔥MY STATS:<br><br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=AbilashaM&theme=dark"><br>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashaM&layout=compact&theme=vision-friendly-dark">
   <br>
-  
-  <b>📫 REACH ME OUT:<br>
+  <br>
+  <b><i> 📫 REACH ME OUT:<br><br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abilasha-m-a72a28237/">
     <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"height=30px width=30px>
-  </a>
+  </a>&nbsp
   <a href="https://www.instagram.com/abilasha.21/">
   <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=30 width=30px>
   
-  </a><t>
+  </a>&nbsp
   <a href="mailto: abilasha.2104@gmail.com">
   <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=30px width=30px>
   
