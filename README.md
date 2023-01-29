@@ -24,8 +24,11 @@ Here are some ideas to get you started:
  <br> <b><i> Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
+ <br>
+ ❤️I'm Abilasha 
+ 🧑‍💻I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+ 🌱 I'm currently learning reactjs
+ ⚡ Fun fact: i❤️ paintings
 
 <b>⚒️LANGUAGE &TOOLS:<br>
 
