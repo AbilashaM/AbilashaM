@@ -19,17 +19,18 @@ Here are some ideas to get you started:
  
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="150" height="150" frameBorder="5" class="giphy-embed" >
-
-</div>
  <br> <b><i> Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- <br>
+
  ✨I'm Abilasha  <br>
  🧑‍💻I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
  🌱I'm currently learning reactjs<br>
  ⚡Fun fact: i❤️paintings<br>
 <br>
+
+</div>
+ 
 <b>⚒️LANGUAGE &TOOLS:<br><br>
 
 <div >
