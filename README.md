@@ -55,7 +55,8 @@ LANGUAGE &TOOLS
   <a href="https://www.linkedin.com/in/abilasha-m-a72a28237/">
     <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon" alt=""/>
+  <a href="https://www.instagram.com/abilasha.21/">
+  <img src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon" alt=""/ height=10px width=10px>
   
-  
+  </a>
     
