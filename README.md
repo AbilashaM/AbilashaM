@@ -55,9 +55,7 @@ LANGUAGE &TOOLS
   <a href="https://www.linkedin.com/in/abilasha-m-a72a28237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.instagram.com/abilasha.21/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon" alt=""/>
   
-    </div>
+  
+    
