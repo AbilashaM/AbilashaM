@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <br>
- ❤️I'm Abilasha 
+ ✨I'm Abilasha  
  🧑‍💻I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
- 🌱 I'm currently learning reactjs
- ⚡ Fun fact: i❤️ paintings
+ 🌱I'm currently learning reactjs
+ ⚡Fun fact: i❤️paintings
 
 <b>⚒️LANGUAGE &TOOLS:<br>
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/abilasha.21/">
   <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=30 width=30px>
   
-  </a>
+  </a><t>
   <a href="mailto: abilasha.2104@gmail.com">
   <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=30px width=30px>
   
