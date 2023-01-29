@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <br>
- ✨I'm Abilasha  
- 🧑‍💻I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
- 🌱I'm currently learning reactjs
- ⚡Fun fact: i❤️paintings
+ ✨I'm Abilasha  <br>
+ 🧑‍💻I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
+ 🌱I'm currently learning reactjs<br>
+ ⚡Fun fact: i❤️paintings<br>
 <br>
 <b>⚒️LANGUAGE &TOOLS:<br><br>
 
