@@ -53,10 +53,10 @@ LANGUAGE &TOOLS
   <b> REACH ME OUT:
 <div id="badges">
   <a href="https://www.linkedin.com/in/abilasha-m-a72a28237/">
-    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="LinkedIn Badge"/>
+    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"height=10px width=10px>
   </a>
   <a href="https://www.instagram.com/abilasha.21/">
-  <img src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon" alt=""/ height=100px width=100px>
+  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=10px width=10px>
   
   </a>
     </div>
