@@ -46,7 +46,8 @@ LANGUAGE &TOOLS
 
 <br>
 <b> 🔥MY STATS:<br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AbilashaM&theme=dark">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AbilashaM&theme=dark"><br>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashaM&layout=compact&theme=vision-friendly-dark">
   <br>
   
@@ -57,6 +58,10 @@ LANGUAGE &TOOLS
   </a>
   <a href="https://www.instagram.com/abilasha.21/">
   <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png" alt="" height=50px width=50px>
+  
+  </a>
+  <a href="mailto: abilasha.2104@gmail.com">
+  <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" alt="" height=50px width=50px>
   
   </a>
     </div>
